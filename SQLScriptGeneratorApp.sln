@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLScriptGeneratorApp", "SQLScriptGeneratorApp\SQLScriptGeneratorApp.csproj", "{047570F7-19F8-4B97-AE2F-F5C9913D033D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047570F7-19F8-4B97-AE2F-F5C9913D033D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047570F7-19F8-4B97-AE2F-F5C9913D033D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047570F7-19F8-4B97-AE2F-F5C9913D033D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047570F7-19F8-4B97-AE2F-F5C9913D033D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {907C2C86-C7E1-45BE-B0BB-1C8A59E52A50}
+	EndGlobalSection
+EndGlobal
